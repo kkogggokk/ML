@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>four-9e82e30a-b15c-11eb-ab9a-e82a44a807ba.jpg</filename>
+	<path>C:\Users\Playdata\ObjectDetection\images\four-9e82e30a-b15c-11eb-ab9a-e82a44a807ba.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>four</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>268</ymin>
+			<xmax>374</xmax>
+			<ymax>469</ymax>
+		</bndbox>
+	</object>
+</annotation>

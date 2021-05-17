@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>five-abc6d4d2-b15c-11eb-837e-e82a44a807ba.jpg</filename>
+	<path>C:\Users\Playdata\ObjectDetection\images\five-abc6d4d2-b15c-11eb-837e-e82a44a807ba.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>five</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>293</ymin>
+			<xmax>394</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

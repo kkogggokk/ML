@@ -1,0 +1,19 @@
+{
+    "Records" : [
+        {
+            "keywords" : "사과",
+            "limit" : 5, 
+            "format" : "jpg", 
+            "color_type" : "full-color",
+            "print_urls" : true, 
+            "print_size" : true
+        },
+        {
+            "keywords" : "체리",
+            "limit" : 10, 
+            "format" : "jpg", 
+            "color_type" : "full-color",
+            "chromedriver" : "/Users/master90/chromedriver"
+        }
+    ]
+}
