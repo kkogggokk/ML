@@ -24,7 +24,8 @@
 
     3.2 맥에서 환경변수 설정하기 
         - 참고 : https://life-of-panda.tistory.com/41
-        - open .bash_profile -> 환경변수추가 -> 확인 
+        - open .bash_profile -> 환경변수추가 -> 확인
+        - export PYTHONPATH=$PYTHONPATH:/Users/master90/Github/ML/TF_oda2/models/research:/Users/master90/Github/ML/TF_oda2/models/research/slim 
 
 3. research/object_detection/protos 를 컴파일
     - protoc 파일을 pb 파일로 변환 (구글 자체 포멧인 protoc 파일을 python executable 파일로 변환하는 것.)
