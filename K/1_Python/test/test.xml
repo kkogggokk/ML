@@ -1,0 +1,11 @@
+<note>
+	<to>Tove</to>
+	<from>Jani</from>
+	<heading>Reminder</heading>
+	<body>Don't forget me this weekend!</body>
+	<cites attr=name>
+		<cite>CHO</cite>
+		<cite>LEE</cite>
+		<cite>PARK</cite>
+	</cites>
+</note>

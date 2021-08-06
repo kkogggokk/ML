@@ -1,0 +1,3 @@
+WARNING:root:root에 warning  기록
+INFO:__main__:메인에서 info기록
+WARNING:__main__:메인에서 warning 기록
